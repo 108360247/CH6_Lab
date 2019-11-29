@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\user\desktop\lab1\source\source.c(25): warning C4098: 'main': 'void' 函式正在傳回值
+  Project2.vcxproj -> C:\Users\USER\Desktop\lab1\Project2\Debug\Project2.exe
